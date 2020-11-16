@@ -1,0 +1,14 @@
+Answers to questions 
+
+A-4
+
+
+- select * from w2; --What unexpected value do you see?
+	I see NULL in columns nines 
+
+- select * from w3; -- Is this what you expected to see? 
+	Yes
+	
+- select * from w3; Should fail. Why? 
+
+	It is because drop table w2; dropped the table w2 
