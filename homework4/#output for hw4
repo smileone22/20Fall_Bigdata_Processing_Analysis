@@ -1,0 +1,225 @@
+#output for hw4
+#Since I tried to use the latitude index to get the neighbourhood group and neighbourhood, "Bay Terrace  Staten Island" seems to need processing... 
+
+"Bay Terrace  Staten Island"	2
+BAD_RECORD	186
+Bronx Allerton	42
+Bronx Baychester	7
+Bronx Belmont	24
+Bronx Bronxdale	19
+Bronx Castle Hill	9
+Bronx City Island	18
+Bronx Claremont Village	28
+Bronx Clason Point	21
+Bronx Co-op City	2
+Bronx Concourse	50
+Bronx Concourse Village	32
+Bronx East Morrisania	10
+Bronx Eastchester	13
+Bronx Edenwald	13
+Bronx Fieldston	12
+Bronx Fordham	63
+Bronx Highbridge	27
+Bronx Hunts Point	18
+Bronx Kingsbridge	70
+Bronx Longwood	62
+Bronx Melrose	10
+Bronx Morris Heights	17
+Bronx Morris Park	15
+Bronx Morrisania	18
+Bronx Mott Haven	60
+Bronx Mount Eden	6
+Bronx Mount Hope	20
+Bronx North Riverdale	10
+Bronx Norwood	31
+Bronx Olinville	4
+Bronx Parkchester	39
+Bronx Pelham Bay	17
+Bronx Pelham Gardens	28
+Bronx Port Morris	46
+Bronx Riverdale	11
+Bronx Schuylerville	13
+Bronx Soundview	15
+Bronx Spuyten Duyvil	4
+Bronx Throgs Neck	24
+Bronx Tremont	11
+Bronx Unionport	7
+Bronx University Heights	21
+Bronx Van Nest	11
+Bronx Wakefield	50
+Bronx West Farms	2
+Bronx Westchester Square	10
+Bronx Williamsbridge	40
+Bronx Woodlawn	11
+Brooklyn Bath Beach	17
+Brooklyn Bay Ridge	141
+Brooklyn Bedford-Stuyvesant	3714
+Brooklyn Bensonhurst	75
+Brooklyn Bergen Beach	10
+Brooklyn Boerum Hill	177
+Brooklyn Borough Park	136
+Brooklyn Brighton Beach	75
+Brooklyn Brooklyn Heights	154
+Brooklyn Brownsville	61
+Brooklyn Bushwick	2465
+Brooklyn Canarsie	147
+Brooklyn Carroll Gardens	233
+Brooklyn Clinton Hill	572
+Brooklyn Cobble Hill	99
+Brooklyn Columbia St	42
+Brooklyn Coney Island	17
+Brooklyn Crown Heights	1564
+Brooklyn Cypress Hills	135
+Brooklyn DUMBO	36
+Brooklyn Downtown Brooklyn	83
+Brooklyn Dyker Heights	12
+Brooklyn East Flatbush	500
+Brooklyn East New York	218
+Brooklyn Flatbush	621
+Brooklyn Flatlands	83
+Brooklyn Fort Greene	489
+Brooklyn Fort Hamilton	55
+Brooklyn Gowanus	247
+Brooklyn Gravesend	68
+Brooklyn Greenpoint	1115
+Brooklyn Kensington	175
+Brooklyn Manhattan Beach	8
+Brooklyn Midwood	109
+Brooklyn Mill Basin	4
+Brooklyn Navy Yard	14
+Brooklyn Park Slope	506
+Brooklyn Prospect Heights	357
+Brooklyn Prospect-Lefferts Gardens	535
+Brooklyn Red Hook	79
+Brooklyn Sea Gate	7
+Brooklyn Sheepshead Bay	164
+Brooklyn South Slope	284
+Brooklyn Sunset Park	390
+Brooklyn Vinegar Hill	34
+Brooklyn Williamsburg	3920
+Brooklyn Windsor Terrace	157
+Manhattan Battery Park City	70
+Manhattan Chelsea	1113
+Manhattan Chinatown	368
+Manhattan Civic Center	52
+Manhattan East Harlem	1117
+Manhattan East Village	1853
+Manhattan Financial District	744
+Manhattan Flatiron District	80
+Manhattan Gramercy	338
+Manhattan Greenwich Village	392
+Manhattan Harlem	2658
+Manhattan Hell's Kitchen	1958
+Manhattan Inwood	252
+Manhattan Kips Bay	470
+Manhattan Little Italy	121
+Manhattan Lower East Side	911
+Manhattan Marble Hill	12
+Manhattan Midtown	1545
+Manhattan Morningside Heights	346
+Manhattan Murray Hill	485
+Manhattan NoHo	78
+Manhattan Nolita	253
+Manhattan Roosevelt Island	77
+Manhattan SoHo	358
+Manhattan Stuyvesant Town	37
+Manhattan Theater District	288
+Manhattan Tribeca	177
+Manhattan Two Bridges	72
+Manhattan Upper East Side	1798
+Manhattan Upper West Side	1971
+Manhattan Washington Heights	899
+Manhattan West Village	768
+Queens Arverne	77
+Queens Astoria	900
+Queens Bay Terrace	6
+Queens Bayside	39
+Queens Bayswater	17
+Queens Belle Harbor	8
+Queens Bellerose	14
+Queens Breezy Point	3
+Queens Briarwood	56
+Queens Cambria Heights	26
+Queens College Point	19
+Queens Corona	64
+Queens Ditmars Steinway	309
+Queens Douglaston	8
+Queens East Elmhurst	185
+Queens Edgemere	11
+Queens Elmhurst	237
+Queens Far Rockaway	29
+Queens Flushing	426
+Queens Forest Hills	144
+Queens Fresh Meadows	32
+Queens Glendale	54
+Queens Hollis	14
+Queens Holliswood	4
+Queens Howard Beach	20
+Queens Jackson Heights	186
+Queens Jamaica	231
+Queens Jamaica Estates	19
+Queens Jamaica Hills	8
+Queens Kew Gardens	32
+Queens Kew Gardens Hills	26
+Queens Laurelton	18
+Queens Little Neck	5
+Queens Long Island City	537
+Queens Maspeth	110
+Queens Middle Village	31
+Queens Neponsit	3
+Queens Ozone Park	62
+Queens Queens Village	60
+Queens Rego Park	106
+Queens Richmond Hill	94
+Queens Ridgewood	423
+Queens Rockaway Beach	56
+Queens Rosedale	59
+Queens South Ozone Park	40
+Queens Springfield Gardens	85
+Queens St. Albans	76
+Queens Sunnyside	363
+Queens Whitestone	11
+Queens Woodhaven	88
+Queens Woodside	235
+Staten Island Arden Heights	4
+Staten Island Arrochar	21
+Staten Island Bull's Head	6
+Staten Island Castleton Corners	4
+Staten Island Clifton	15
+Staten Island Concord	26
+Staten Island Dongan Hills	7
+Staten Island Eltingville	3
+Staten Island Emerson Hill	5
+Staten Island Fort Wadsworth	1
+Staten Island Graniteville	3
+Staten Island Grant City	6
+Staten Island Great Kills	10
+Staten Island Grymes Hill	7
+Staten Island Howland Hook	2
+Staten Island Huguenot	3
+Staten Island Lighthouse Hill	2
+Staten Island Mariners Harbor	8
+Staten Island Midland Beach	6
+Staten Island New Brighton	5
+Staten Island New Dorp	1
+Staten Island New Dorp Beach	5
+Staten Island New Springville	8
+Staten Island Oakwood	5
+Staten Island Port Richmond	9
+Staten Island Prince's Bay	4
+Staten Island Randall Manor	19
+Staten Island Richmondtown	1
+Staten Island Rosebank	7
+Staten Island Rossville	1
+Staten Island Shore Acres	7
+Staten Island Silver Lake	2
+Staten Island South Beach	8
+Staten Island St. George	48
+Staten Island Stapleton	27
+Staten Island Todt Hill	4
+Staten Island Tompkinsville	42
+Staten Island Tottenville	7
+Staten Island West Brighton	18
+Staten Island Westerleigh	2
+Staten Island Willowbrook	1
+Staten Island Woodrow	1
